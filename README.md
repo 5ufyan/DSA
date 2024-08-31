@@ -13,4 +13,4 @@ Array using Template
 
 Bubble Sort 
 
-Insertion
+Insertion Sort
