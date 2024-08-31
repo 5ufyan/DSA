@@ -12,3 +12,5 @@ Binary Structured Tree
 Array using Template
 
 Bubble Sort 
+
+Insertion
